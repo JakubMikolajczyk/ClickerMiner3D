@@ -1,7 +1,7 @@
 # ClickerMiner3D
 
 ### Description
-
+In game we mine blocks which give us money. We can spend money at marketplace, where we can buy upgrades like e.g. pickaxe dmg/speed/range, crate spawn chance, cannon dmg. There is also option to buy cannons which help us mine blocks.
 ### Gameplay
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tV7gkROcN-Y/0.jpg)](https://www.youtube.com/watch?v=tV7gkROcN-Y)
